@@ -1,3 +1,3 @@
-# Student-Management-System
+# Student-Management-System in C
 
-*I am a boy
+This is a simple project using C to manage student, you can add, modify, delete, and show all the data. Also, you can change the password if you want.
